@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XmlPractice</string>
+    <string name="input_user_name">請輸入使用者名稱</string>
+    <string name="input_password">請輸入密碼</string>
+</resources>
